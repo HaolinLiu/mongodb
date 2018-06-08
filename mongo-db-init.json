@@ -1,5 +1,6 @@
-{
-  "luke": {
+[
+  {
+    "personId": "luke",
     "name": "Luke Skywalker",
     "photos": [
       {
@@ -17,7 +18,8 @@
     ]
   },
 
-  "beyonce": {
+  {
+    "personId": "beyonce",
     "name": "Beyonce",
     "photos": [
       {
@@ -35,7 +37,8 @@
     ]
   },
 
-  "einstein": {
+  {
+    "personId": "einstein",
     "name": "Albert Einstein",
     "photos": [
       {
@@ -53,7 +56,8 @@
     ]
   },
 
-  "ta-nehisi": {
+  {
+    "personId": "ta-nehisi",
     "name": "Ta-Nehisi Coates",
     "photos": [
       {
@@ -71,7 +75,8 @@
     ]
   },
 
-  "marie": {
+  {
+    "personId": "marie",
     "name": "Marie Curie",
     "photos": [
       {
@@ -88,4 +93,4 @@
       }
     ]
   }
-}
+]
